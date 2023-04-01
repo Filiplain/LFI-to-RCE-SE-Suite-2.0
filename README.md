@@ -1,5 +1,5 @@
-# Remote-Code-Execution-in-SoftExpert-Suite-2.0-
-Authenticated Local File Inclusion to Remote Code Execution on SoftExpert Suite EQM.
+# Remote Code Execution in SoftExpert Excellence Suite 2.0
+Authenticated Local File Inclusion to Remote Code Execution on SoftExpert Excellence Suite EQM.
 
 * SE Suite 2.x versions before 2.1.3 
 * Tested on versions: 2.0.15.31 and 2.0.15.115
