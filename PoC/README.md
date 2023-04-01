@@ -6,6 +6,7 @@ Tested on versions: 2.0.15.31 and 2.0.15.115
 
 ### Usage
 * Make sure that user is logged out before running PoC
+* Edit PoC if needed (Example page target could be http not https)
 
 Example: 
 ~~~
