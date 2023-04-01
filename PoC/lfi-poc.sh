@@ -5,6 +5,8 @@
 ## Tested on versions: 2.0.15.31 and 2.0.15.115
 ## Make sure that user is logged out before running PoC
 
+# Usage: ./lfi-poc.sh <domain> <username> <password> <File Path> 
+
 target=$1
 u=$2
 p=$3
