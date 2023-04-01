@@ -2,6 +2,12 @@
 Authenticated Local File Inclusion to Remote Code Execution on SoftExpert Suite EQM.
 
 * SE Suite 2.x versions before 2.1.3 
+* Tested on versions: 2.0.15.31 and 2.0.15.115
+
+## LFI PoC
+https://github.com/Filiplain/LFI-to-RCE-SE-Suite-2.0/tree/main/PoC
+
+![](https://github.com/Filiplain/LFI-to-RCE-SE-Suite-2.0/blob/main/Images/poc-script.png?raw=true)
 
 ## 1- Local File Inclusion:
 
@@ -37,3 +43,6 @@ Now we can execute commands by reading the logs.
 **Command:** whoami
 
 ![](https://github.com/Filiplain/RCE-SE-Suite-2.0/blob/main/Images/whoami.png?raw=true)
+
+
+
