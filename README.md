@@ -1,5 +1,7 @@
-# Remote Code Execution in SoftExpert Excellence Suite 2.0
+# Remote Code Execution in SoftExpert Excellence Suite 2.0 - CVE-2023-30330
 Authenticated Local File Inclusion to Remote Code Execution on SoftExpert Excellence Suite EQM.
+
+![CVE-2023-30330](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-30330)
 
 * SE Suite 2.x versions before 2.1.3 
 * Tested on versions: 2.0.15.31 and 2.0.15.115
